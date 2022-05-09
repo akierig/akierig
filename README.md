@@ -4,4 +4,7 @@ I'm a librarian with a focus on open-access digital publishing. I care about pri
 
 thanks for stopping by!
 
+### Contact
 
+anelki@fastmail.de
+`/query anelki` on [libera.chat](https://libera.chat) and on [tilde.chat](https://tilde.chat)
