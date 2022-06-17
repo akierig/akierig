@@ -1,6 +1,6 @@
 ### greetings!
 
-I'm a librarian with a focus on open-access digital publishing. I care about privacy and simplicity. I believe in building community infrastructure and self hosting (which is why I only use github as much as I need to). Most of my stuff you'll find on **[hg.sr.ht/~anelki](https://hg.sr.ht/~anelki/)** because I prefer it to git.
+I'm a librarian with a focus on open-access digital publishing. I care about privacy and simplicity. I believe in building community infrastructure and self hosting (which is why I only use github as much as I *absolutely* need to). Most of my stuff you'll find on **[hg.sr.ht/~anelki](https://hg.sr.ht/~anelki/)** because I prefer it to git.
 
 thanks for stopping by!
 
