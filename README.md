@@ -9,4 +9,3 @@ thanks for stopping by!
 [anelki.net](https://anelki.net) \
 anelki@fastmail.de \
 `/query anelki` on [libera.chat](https://libera.chat) and on [tilde.chat](https://tilde.chat)\
-[PGP Key](https://keys.openpgp.org/search?q=anelki%40fastmail.de) (if you're into that sorta thing)
